@@ -1,16 +1,27 @@
-### Hi there 👋
+## ✨ Welcome Ladies ✨ 
 
-<!--
-**mulheresemdados/mulheresemdados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ 
+## 
 
-Here are some ideas to get you started:
+Rede de mulheres que tem interesse e/ou trabalham no ecossistema de dados e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esse é um espaço de  suporte e amparo a todas as mulheres maravilhosas e guerreiras da área para que, JUNTAS, consigamos reverter a desigualdade de gênero exacerbada em dados e tecnologia.
+
+Vamos construir juntas esse futuro! 🚀
+
+##
+ 
+</div>
+  
+<div> 
+  
+<a href="https://www.linkedin.com/company/mulheresemdados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/9e87Xj7wan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://t.me/joinchat/KFX6RiY3FHIwYzI5" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mulheresemdados@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+
+
+
